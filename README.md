@@ -5,19 +5,14 @@ Ecommerce en proceso
 ## Running Locally
 
 ```bash
-$ git clone https://github.com/Pierdo1/Ecommerce-React
+$ git clone https://github.com/lautisan/Actividad-Final-ReactJS-Lautaro-Montenegro-main
 $ cd Ecommerce-React
 $ npm install
 $ npm start
 ```
 
-## Built Using
-
-- [Create-React-App](https://create-react-app.dev/)
-- [Firebase](https://firebase.com)
-
 ## Test App
 
-[Deploy](https://ecommerce-react-agustin-pierdominici-34695.vercel.app/)
+[Deploy](https://actividad-final-react-js-lautaro-montenegro-main.vercel.app/)
 
 
